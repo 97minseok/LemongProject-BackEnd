@@ -141,20 +141,32 @@
     
 <h2>● 메인 페이지</h2>
     
-![image](https://user-images.githubusercontent.com/106515028/221404226-cd0a08c1-b3ce-4db0-96fc-e77e13d7c6d3.png)
-    
+![image](https://user-images.githubusercontent.com/116356187/221619186-59971143-d8a0-4f09-bb34-7ce5c26fa43f.JPG)
+
 <br/><br/><br/>
     
 <h2>● 마이 페이지</h2>
     
-![image](https://user-images.githubusercontent.com/106515028/221404463-b7fb9760-c18c-418b-a2a1-131f4bf0113a.png)
+![image](https://user-images.githubusercontent.com/116356187/221619070-7923536a-0870-4bbb-b8bc-f9f7e1d66351.JPG)
 
 <br/><br/><br/>
     
 <h2>● Feed</h2>
     
-![image](https://user-images.githubusercontent.com/106515028/221404294-fb233ef3-9f02-43ab-8e52-a75f909d2368.png)
+![image](https://user-images.githubusercontent.com/116356187/221618493-3d202d4b-5dfd-4381-a0af-ca77c3c7b9cd.JPG)
+
+<br/><br/><br/>
     
+<h2>● Feed Alarm</h2>
+    
+![image](https://user-images.githubusercontent.com/116356187/221618279-94c7a059-9a0c-4bc1-88d0-9598c2b3ef0d.JPG)
+
+<br/><br/><br/>
+    
+<h2>● Feed Insert</h2>
+    
+![image](https://user-images.githubusercontent.com/116356187/221618142-3aa9191b-e4c4-4972-a4db-62c95540a67a.JPG)
+
 <br/><br/><br/>
     
 <h2>● Challenge</h2>
@@ -179,4 +191,5 @@
 <h2>● 채팅 / 랭킹</h2>
     
 ![image](https://user-images.githubusercontent.com/106515028/221404792-e508380b-7964-42fe-bbad-f8f676068c73.png)
+
 
